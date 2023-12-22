@@ -3015,7 +3015,7 @@
   Args:
     - needingRecreation.Count.ToString()
 - Key: NoResearchStationsAlert.0-638321842051919322
-  Text: Нет {0} построен
+  Text: Не построен {0}
   Args:
     - Model.Format.DisplayName(archetype)
 - Key: NoResearchStationsAlert.1-638321842051919322
@@ -3072,7 +3072,7 @@
 - Key: NoWallsAlert.0-638182796310607777
   Text: Стены не построены
 - Key: NoWandStationsAlert.0-638322107133848236
-  Text: Нет {0} построен
+  Text: Не построен {0}
   Args:
     - Model.Format.DisplayName(archetype)
 - Key: NoWandStationsAlert.0-638322112234955498
@@ -3083,7 +3083,7 @@
     - Model.Format.Link(archetype)
     - wands
 - Key: NoWandStationsAlert.0-638373896636273803
-  Text: Жезлы не построены
+  Text: Верстак палочкодела не построена
 - Key: NoWandStationsAlert.1-638373896636273803
   Text: >-
     Создайте <slink=LesserWand> в <slink=LesserWandStation>.

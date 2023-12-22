@@ -530,7 +530,7 @@
 - Key: Archetype.ManaFont.Configs.13-638253510446643161.Buckets.0-638253510446643161.Name
   Text: Персонал
 - Key: Archetype.ManaFont.Configs.18-638379728818366188.ButtonName
-  Text: Превосходное отражение тумана
+  Text: Усиленное отталкивание тумана
 - Key: Archetype.ManaFont.Configs.18-638379728818366188.ButtonDescription
   Text: Освятите Купель маны, заставив Туман отступить на большое расстояние, открывая больше земель и передовых ресурсов.
 - Key: Archetype.ManaFont.Configs.18-638379728818366188.WindowDescription
@@ -539,7 +539,7 @@
 - Key: Archetype.ManaFont.Configs.18-638379728818366188.Buckets.0-638379728818366188.Name
   Text: Персонал
 - Key: Archetype.ManaFont.Configs.19-638379728818366188.ButtonName
-  Text: Превосходное отражение тумана
+  Text: Усиленное отталкивание тумана
 - Key: Archetype.ManaFont.Configs.19-638379728818366188.ButtonDescription
   Text: Освятите Купель маны, заставив Туман отступить на большое расстояние, открывая больше земель и передовых ресурсов.
 - Key: Archetype.ManaFont.Configs.19-638379728818366188.WindowDescription
@@ -548,7 +548,7 @@
 - Key: Archetype.ManaFont.Configs.19-638379728818366188.Buckets.0-638379728818366188.Name
   Text: Персонал
 - Key: Archetype.ManaFont.Configs.20-638379728818366188.ButtonName
-  Text: Превосходное отражение тумана
+  Text: Усиленное отталкивание тумана
 - Key: Archetype.ManaFont.Configs.20-638379728818366188.ButtonDescription
   Text: Освятите Купель маны, заставив Туман отступить на большое расстояние, открывая больше земель и передовых ресурсов.
 - Key: Archetype.ManaFont.Configs.20-638379728818366188.WindowDescription
@@ -557,7 +557,7 @@
 - Key: Archetype.ManaFont.Configs.20-638379728818366188.Buckets.0-638379728818366188.Name
   Text: Персонал
 - Key: Archetype.ManaFont.Configs.21-638379728818366188.ButtonName
-  Text: Превосходное отражение тумана
+  Text: Усиленное отталкивание тумана
 - Key: Archetype.ManaFont.Configs.21-638379728818366188.ButtonDescription
   Text: Освятите Купель маны, заставив Туман отступить на большое расстояние, открывая больше земель и передовых ресурсов.
 - Key: Archetype.ManaFont.Configs.21-638379728818366188.WindowDescription
@@ -566,7 +566,7 @@
 - Key: Archetype.ManaFont.Configs.21-638379728818366188.Buckets.0-638379728818366188.Name
   Text: Персонал
 - Key: Archetype.ManaFont.Configs.22-638379728818366188.ButtonName
-  Text: Превосходное отражение тумана
+  Text: Усиленное отталкивание тумана
 - Key: Archetype.ManaFont.Configs.22-638379728818366188.ButtonDescription
   Text: Освятите Купель маны, заставив Туман отступить на большое расстояние, открывая больше земель и передовых ресурсов.
 - Key: Archetype.ManaFont.Configs.22-638379728818366188.WindowDescription
@@ -2228,7 +2228,7 @@
   Args:
     - Crafted Entity
 - Key: Archetype.LesserWandStation.DescriptionConfig.0.DisplayName
-  Text: Создатель палочек
+  Text: Верстак палочкодела
 - Key: Archetype.LesserWandStation.DescriptionConfig.0.Description
   Text: Ремесла <slink=JobType_Wandmaking> из магических компонентов. Используется в ритуалах <slink=SummoningFocus> вызвать новых учеников в школу.
 - Key: Archetype.LesserWandStation.DescriptionConfig.0.FlavorText
@@ -3638,7 +3638,7 @@
 - Key: Archetype.WyrmweedPlanterNew.Configs.15-638379728832850752.DisplayName
   Text: Природа
 - Key: Archetype.Gramophone.DescriptionConfig.0.DisplayName
-  Text: Энчантофон
+  Text: Громофон
 - Key: Archetype.Gramophone.DescriptionConfig.0.Description
   Text: Используется для <slink=Recreation>.
 - Key: Archetype.Gramophone.DescriptionConfig.0.FlavorText
@@ -3662,7 +3662,7 @@
 - Key: Archetype.Gramophone.Configs.11-638357415795334986.Completion
   Text: "{0} слушал. ({1})"
 - Key: Archetype.ResearchBench.DescriptionConfig.0.DisplayName
-  Text: Стол для изучения чародейства
+  Text: Стол чародея
 - Key: Archetype.ResearchBench.DescriptionConfig.0.Description
   Text: Используется персоналом для <slink=JobType_Research> новые знания для школы.
 - Key: Archetype.ResearchBench.DescriptionConfig.0.FlavorText
@@ -9968,7 +9968,7 @@
 - Key: KeywordDefinition.Shop_Teaching.Description
   Text: Мебель для учебных классов.
 - Key: KeywordDefinition.Shop_Lighting.DisplayName
-  Text: Осветительные приборы
+  Text: Освещение
 - Key: KeywordDefinition.Shop_Lighting.Description
   Text: Свет и окна.
 - Key: KeywordDefinition.Shop_Storage.DisplayName
@@ -11061,7 +11061,7 @@
 - Key: ShopCategoryConfig.Teaching.Tooltip
   Text: <slink=Shop_Teaching>
 - Key: ShopCategoryConfig.Lighting.DisplayName
-  Text: Осветительные приборы
+  Text: Освещение
 - Key: ShopCategoryConfig.Lighting.Tooltip
   Text: <slink=Shop_Lighting>
 - Key: ShopCategoryConfig.Storage.DisplayName
@@ -12659,7 +12659,7 @@
 - Key: TutorialDefinition.Lighting.Feed
   Text: Узнайте об освещении и грибах пустоты.
 - Key: TutorialDefinition.Lighting.Listing
-  Text: Осветительные приборы
+  Text: Освещение
 - Key: TutorialDefinition.Lighting.FeedHover
   Text: Нажмите, чтобы узнать об освещении и грибах пустоты.
 - Key: TutorialDefinition.Lighting.Title
@@ -13085,7 +13085,7 @@
 - Key: BadgeDefinition.SoloRecreator_1.DisplayName
   Text: Танцую сама по себе - бронзовое испытание
 - Key: BadgeDefinition.SoloRecreator_1.Description
-  Text: Танцуйте в комнате с энчантофоном, в которой нет других учеников или сотрудников.
+  Text: Танцуйте в комнате с громофоном, в которой нет других учеников или сотрудников.
 - Key: BadgeDefinition.SoloRecreator_2.DisplayName
   Text: Танцую сама - Серебряное испытание
 - Key: BadgeDefinition.SoloRecreator_2.Description
@@ -13101,7 +13101,7 @@
 - Key: BadgeDefinition.GroupRecreator_1.DisplayName
   Text: Танцы с друзьями - бронзовое испытание
 - Key: BadgeDefinition.GroupRecreator_1.Description
-  Text: Потанцуйте в комнате с Энчантофоном и хотя бы 6 Присутствуют студенты или сотрудники.
+  Text: Потанцуйте в комнате с громофоном где присутствует хотя бы 6 студентов или сотрудников.
 - Key: BadgeDefinition.GroupRecreator_2.DisplayName
   Text: Танцы с друзьями — серебряная пробная версия
 - Key: BadgeDefinition.GroupRecreator_2.Description
